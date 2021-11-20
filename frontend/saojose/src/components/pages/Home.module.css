@@ -1,0 +1,16 @@
+.container {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.title_container {
+    margin-left: 2em;
+    color: #0378a6;
+}
+
+.speciality_container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
